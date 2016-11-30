@@ -26,7 +26,7 @@ module: mssql_user
 short_description: Manage users in MSSQL databases
 description:
    - Manage users in MSSQL databases
-version_added: "0.0"
+version_added: "2.3"
 options:
   db:
     description:
